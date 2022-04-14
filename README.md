@@ -1,4 +1,4 @@
-<h2>Bienvenido a mi repositorio principal</h2>
+<h2>☕ Bienvenido a mi repositorio principal ☕</h2>
 
 
 Me llamo <b>Octavio Bernal</b> , este es mi primer repositiorio en GitHub, aquí iré subiendo ejercicios para crecer profesional y personalmente.
