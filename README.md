@@ -9,6 +9,6 @@ Mis puntos fuertes son:<br>
 ➡️ Ganas de crecer profesionalmente.<br>
 ➡️ Trabajo en equipo.
 
-Si tienes cualquier duda o sugerencia puedes contactarme en: 📫 octabevi@protonmail.com 📫
+Si tienes cualquier duda o sugerencia puedes contactarme en: 📫 octabevi@protonmail.com o en mi Linkedin https://www.linkedin.com/in/octavio-bernal-vilana/📫
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioBernalGH&theme=blue-green">
