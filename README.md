@@ -7,3 +7,5 @@ Actualmente estoy aprendiendo Java y posteriormente entraré en el mundo de BBDD
 Mis puntos fuertes son la perseverancia</b> y la <b>mejora constante.</b>
 
 Si tienes cualquier duda o sugerencia puedes contactarme en: 📫 octabevi@protonmail.com 📫
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioBernalGH&theme=blue-green">
