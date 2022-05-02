@@ -13,3 +13,10 @@ Si tienes cualquier duda o sugerencia puedes contactarme en: 📫 octabevi@proto
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioBernalGH&theme=blue-green">
 
+
+Tecnologías empleadas:
+
+![Github_icon-icons com_66788](https://user-images.githubusercontent.com/103035621/166254954-f01503b4-a4be-427b-946b-ab31f106341c.png)
+![java_original_wordmark_logo_icon_146459](https://user-images.githubusercontent.com/103035621/166254317-b25d6395-f856-40ef-8140-38fe1154020e.png)
+![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/103035621/166254604-6993ae7b-cce0-489a-bf8d-abe453f961c9.png)
+
