@@ -11,8 +11,7 @@ Mis puntos fuertes son:<br>
 
 Si tienes cualquier duda o sugerencia puedes contactarme en: 📫 octabevi@protonmail.com o en mi [Linkedin](https://www.linkedin.com/in/octavio-bernal-vilana) 📫
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioBernalGH&theme=blue-green">
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OctavioBernalGH&show_icons=true&theme=radical)
 
 Tecnologías empleadas:
 
@@ -20,3 +19,5 @@ Tecnologías empleadas:
 ![java_original_wordmark_logo_icon_146459](https://user-images.githubusercontent.com/103035621/166254317-b25d6395-f856-40ef-8140-38fe1154020e.png)
 ![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/103035621/166254604-6993ae7b-cce0-489a-bf8d-abe453f961c9.png)
 ![folder_type_maven_icon_129897](https://user-images.githubusercontent.com/103035621/166413870-201ea051-1e57-4bcf-b3bc-8be6c45b2dd6.png)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioBernalGH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
