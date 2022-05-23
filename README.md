@@ -15,9 +15,16 @@ Si tienes cualquier duda o sugerencia puedes contactarme en: 📫 octabevi@proto
 
 Tecnologías empleadas:
 
-![Github_icon-icons com_66788](https://user-images.githubusercontent.com/103035621/166254954-f01503b4-a4be-427b-946b-ab31f106341c.png)
-![java_original_wordmark_logo_icon_146459](https://user-images.githubusercontent.com/103035621/166254317-b25d6395-f856-40ef-8140-38fe1154020e.png)
-![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/103035621/166254604-6993ae7b-cce0-489a-bf8d-abe453f961c9.png)
-![folder_type_maven_icon_129897](https://user-images.githubusercontent.com/103035621/166413870-201ea051-1e57-4bcf-b3bc-8be6c45b2dd6.png)
+
+![html_original_wordmark_logo_icon_146478](https://user-images.githubusercontent.com/103035621/169846451-a516a907-502c-4270-b78f-4439cab76b64.png)
+![css_original_wordmark_logo_icon_146576](https://user-images.githubusercontent.com/103035621/169846456-88590c0c-bd55-4ab7-b61d-030ea770d70b.png)
+![bootstrap_plain_wordmark_logo_icon_146620](https://user-images.githubusercontent.com/103035621/169847654-13c0131f-33f0-4e13-a9cf-b1edcef55437.png)
+![java_original_wordmark_logo_icon_146459 (1)](https://user-images.githubusercontent.com/103035621/169846852-ff2af1d2-65b5-4f7b-9aa6-4b2836fa2d63.png)
+![mysql_original_wordmark_logo_icon_146417 (1)](https://user-images.githubusercontent.com/103035621/169846984-c8c896b3-0950-4da0-8e2d-3bcca4d6f04c.png)
+![github_original_wordmark_logo_icon_146506](https://user-images.githubusercontent.com/103035621/169847321-088b8693-06e4-4abb-89f1-03e39fe058de.png)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioBernalGH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
