@@ -23,10 +23,7 @@ Tecnologías empleadas:
 ![mysql_original_wordmark_logo_icon_146417 (1)](https://user-images.githubusercontent.com/103035621/169846984-c8c896b3-0950-4da0-8e2d-3bcca4d6f04c.png)
 ![github_original_wordmark_logo_icon_146506](https://user-images.githubusercontent.com/103035621/169847321-088b8693-06e4-4abb-89f1-03e39fe058de.png)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioBernalGH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioBernalGH&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="right">Visitas en el perfil:<br></p>
 
