@@ -1,7 +1,7 @@
 <h2>☕ Bienvenido/a a mi perfil de GitHub ☕</h2>
 
 <p align="justify">
-🔰 Me llamo <b>Octavio Bernal</b> , este es mi primer GitHub y aquí iré subiendo ejercicios para crecer profesional y personalmente. Dichos ejercicios son de caracter formativo. Actualmente estoy aprendiendo desarrollo web y de aplicaciones, utilizando las nuevas tecnologías que salen al mercado.<br>
+🔰 Me llamo <b>Octavio Bernal</b> , soy programador Full-Stack, actualmente estoy enfocado en Laravel/PHP y aprendiendo nuevas tecnologías.<br>
 </p>
 Mis puntos fuertes son:<br>
 ➡️ Perseverancia.<br>
