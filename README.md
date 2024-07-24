@@ -1,32 +1,25 @@
-<h2>☕ Bienvenido/a a mi perfil de GitHub ☕</h2>
+<h1 align="center">Hi 👋, I'm Octavio Bernal</h1>
+<h3 align="center">A passionate full stack developer</h3>
 
-<p align="justify">
-🔰 Me llamo <b>Octavio Bernal</b> , soy programador Full-Stack, actualmente estoy enfocado en Laravel/PHP y aprendiendo nuevas tecnologías.<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=octaviobernalgh" alt="octaviobernalgh" /></a> </p>
+
+- 🔭 I’m currently working on **content creation and software development with Django, NextJS, Java and Flutter**
+
+- 🌱 I’m currently learning **NextJS framework**
+
+- 👯 I’m looking to collaborate on **education comunities**
+
+- 📝 I regularly write articles on [https://medium.com/@octabevi](https://medium.com/@octabevi)
+
+- 📫 How to reach me **obernal.work@protonmail.com**
+
+- ⚡ Fun fact **I love cats09o**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/octavio-bernal-vilana-lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="octavio-bernal-vilana-lk" height="30" width="40" /></a>
+<a href="https://medium.com/@octabevi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@octabevi" height="30" width="40" /></a>
 </p>
-Mis puntos fuertes son:<br>
-➡️ Perseverancia.<br>
-➡️ Mejora continua.<br>
-➡️ Ganas de crecer profesionalmente.<br>
-➡️ Trabajo en equipo.<br><br>
 
-Si tienes cualquier duda o sugerencia puedes contactarme en: 📫 octabevi@protonmail.com o en mi [Linkedin](https://www.linkedin.com/in/octavio-bernal-vilana) 📫
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OctavioBernalGH&show_icons=true&theme=radical)
-
-Tecnologías empleadas:
-
-
-![html_original_wordmark_logo_icon_146478](https://user-images.githubusercontent.com/103035621/169846451-a516a907-502c-4270-b78f-4439cab76b64.png)
-![css_original_wordmark_logo_icon_146576](https://user-images.githubusercontent.com/103035621/169846456-88590c0c-bd55-4ab7-b61d-030ea770d70b.png)
-![bootstrap_plain_wordmark_logo_icon_146620](https://user-images.githubusercontent.com/103035621/169847654-13c0131f-33f0-4e13-a9cf-b1edcef55437.png)
-![java_original_wordmark_logo_icon_146459 (1)](https://user-images.githubusercontent.com/103035621/169846852-ff2af1d2-65b5-4f7b-9aa6-4b2836fa2d63.png)
-![mysql_original_wordmark_logo_icon_146417 (1)](https://user-images.githubusercontent.com/103035621/169846984-c8c896b3-0950-4da0-8e2d-3bcca4d6f04c.png)
-![github_original_wordmark_logo_icon_146506](https://user-images.githubusercontent.com/103035621/169847321-088b8693-06e4-4abb-89f1-03e39fe058de.png)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioBernalGH&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="right">Visitas en el perfil:<br></p>
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=OctavioBernalGH&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Octavio GitHub" /> 
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
