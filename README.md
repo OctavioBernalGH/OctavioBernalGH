@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **obernal.work@protonmail.com**
 
-- ⚡ Fun fact **I love cats09o**
+- ⚡ Fun fact **I love cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
